@@ -3,6 +3,7 @@
 ## I'm a student, drummer and Basketball player!
 
 - 🌱 I’m working towards a Bachlor's degree in Electrical and Electronic Engineering(EEE) at Nanyang Technological University Singapore.
+- 🔭 I am an interest-motivated cs learner.
 - 📫 How to reach me: liun0014@e.ntu.edu.sg
 - ⚡ Fun fact: Good at moba games but fps games suck.
 
